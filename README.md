@@ -8,7 +8,7 @@ Lo step successivo sarebbe quello di visualizzare la lista nella pagina html con
 
 ### Layout di riferimento
 
-![layoutdi riferimento](img/fizz-buzz.png)
+![layout di riferimento](img/fizz-buzz.png)
 
 ## Risoluzione in linguaggio naturale
 
@@ -19,3 +19,7 @@ Lo step successivo sarebbe quello di visualizzare la lista nella pagina html con
 5. Creare un container nel DOM
 6. Aggiungere un elemento con il numero o la stringa con la funzione **_append()_**
 7. Applicare stili differenti in base al valore degli elementi
+
+## Layout finale
+
+![layout finale](img/layout-finale.png)
